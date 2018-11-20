@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 [image1]: ./test_images/car_nocar.JPG
 [image2]: ./test_images/hog_extract.JPG
-[image3]: ./test_images/zones.JPG
+[image3]: ./test_images/zones.jpg
 [image4]: ./test_images/scales.JPG
 [image5]: ./test_images/search_grid.JPG
 [image6]: ./test_images/classifier_performance.JPG
